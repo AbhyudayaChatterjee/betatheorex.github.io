@@ -14,6 +14,6 @@
     <body>
     <center><a href="examples/pages/login.html" class="link btn btn-primary"><h1>Beta Login Page</h1></a><br />
     <a href="examples/pages/courses.html" class="link btn btn-primary"><h1>Beta Courses Page</h1></a><br />
-	<a href="examples/pages/video.html" class="link btn btn-primary"><h1>Video Module Page</h1></a></center>
+	<a href="examples/pages/video.html" class="link btn btn-primary"><h1>Beta Courses Page</h1></a></center>
     </body>
 </html>
