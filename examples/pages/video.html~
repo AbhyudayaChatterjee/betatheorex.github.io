@@ -2,18 +2,21 @@
 <html>
 	<head><title></title>
 	<link href="../../videojs/video-js.min.css" rel="stylesheet">
+	<link href="../../videojs/video.css" rel="stylesheet">
   	<script src="../../videojs/ie8/videojs-ie8.min.js"></script>
 	<script src="../../videojs/video.min.js"></script>
 	</head>
 	<body>
- <video id="my-video" class="video-js" controls preload="auto" width="640" height="264"
-  poster="" data-setup="{}">
+<div style="max-width: 600px; width:100%;">
+<div class="video-js-responsive-container vjs-hd">
+ <video id="my-video" class="video-js" controls preload="auto"  poster="" data-setup="{}">
     <source src="" type=''>
     <p class="vjs-no-js">
       To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
     </p>
   </video>
-
-  
+</div>
+  </div>
+	
 </body>
 </html>
